@@ -12,7 +12,7 @@ Features:
 
 Demo:
 
-You can view a live demonstration of the application here: http://www.vp-breathing-app-repo.com/
+You can view a live demonstration of the application here: [http://www.vp-breathing-app-repo.com/](https://vladutpana.github.io/vp-breathing-app-repo/)
 
 
 Technologies Used:
