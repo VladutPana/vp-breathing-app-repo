@@ -1,28 +1,26 @@
 # Breathing Application 
  
       Breathing app
-Această aplicație web este concepută pentru relaxarea și concentrarea pe respirație. Ea utilizează setTimeout și o formulă specifică pentru ghidarea în sesiuni de respirație ritmică, cunoscută și sub numele de "respirație controlată". Aceste tehnici pot ajuta la reducerea stresului și la îmbunătățirea concentrării.
+This web application is designed for relaxation and focusing on controlled breathing. It uses setTimeout and a specific formula to guide you through rhythmic breathing sessions, also known as "controlled breathing." These techniques can help reduce stress and improve concentration.
 
-Caracteristici:
+Features:
 
-        -Relaxare prin respirație: Această aplicație oferă o experiență de relaxare profundă prin ghidarea 
-        respirației cu ajutorul unui afișaj vizual.
-        -Necesitate minimă de interacțiune: Utilizatorii nu trebuie să facă altceva decât să deschidă aplicația 
-        și să privească ecranul pentru a beneficia de sesiunea de respirație controlată. Nu sunt necesare alte interacțiuni.
-        -Ușor de utilizat: Interfața aplicației este simplă și intuitivă, permițând astfel relaxarea rapidă și fără efort.
+        -Breath Relaxation: This application offers a deep relaxation experience by guiding your breath with a visual display.
+        -Minimal Interaction Required: Just open the application and watch the screen to benefit from controlled breathing sessions.
+        -User-Friendly: The application's interface is simple and intuitive, allowing for quick and effortless relaxation.
 
 Demo:
 
-Puteți vedea o demonstrație live a aplicației aici: http://www.vp-breathing-app-repo.com/
+You can view a live demonstration of the application here: http://www.vp-breathing-app-repo.com/
 
 
-Tehnologii folosite:
+Technologies Used:
 
         -HTML
         -CSS
         -JavaScript
 
 
-Autor:
+Author:
 
         @VladutPana
