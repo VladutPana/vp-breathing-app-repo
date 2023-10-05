@@ -2,6 +2,7 @@
  
       Breathing app
 This web application is designed for relaxation and focusing on controlled breathing. It uses setTimeout and a specific formula to guide you through rhythmic breathing sessions, also known as "controlled breathing." These techniques can help reduce stress and improve concentration.
+![Breathe](https://github.com/VladutPana/vp-breathing-app-repo/assets/109078074/0c28e019-64c0-4f32-b877-62287c3b081a)
 
 Features:
 
